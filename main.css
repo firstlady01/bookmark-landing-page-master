@@ -1,0 +1,23 @@
+.joined{
+    background-color: hsl(229, 8%, 60%) ;
+}
+.chrome{
+    height: 37px;
+    width: 31%;
+    border-style: none;
+    background: hsl(231, 69%, 60%);
+    border-radius: 5px;
+}
+#firefox{
+    height: 37px;
+    width: 31%;
+    border-style: none;
+    border-radius: 5px;
+}
+#install{
+    height: 50px;
+    width: 95%;
+    background: hsl(231, 69%, 60%);
+    border-style: hidden;
+    border-radius: 5px;
+}
